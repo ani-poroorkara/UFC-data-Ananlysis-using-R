@@ -10,5 +10,5 @@
 ## Project - UFC Data set
 8. Cleaning of the Dataset
 9. EDA on the dataset
-10.Regression analysis
-11.Data Visualization using ggplot2
+10. Regression analysis
+11. Data Visualization using ggplot2
